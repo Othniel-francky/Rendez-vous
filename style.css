@@ -65,6 +65,12 @@ a.active, a:hover{
     background: #47a7c3;
     border-radius: 5%;
 }
+
+.carre a{
+    text-decoration: none;
+    color: white;
+}
+
 .carre h6{
     font-size: 20px;
     text-align: center;
@@ -75,7 +81,7 @@ a.active, a:hover{
     height: 150px;
     width: 100%;
    
-    margin-top: 268px;
+    margin-top: 151px;
     background: #47a7c3;
 }
 .barre p{
